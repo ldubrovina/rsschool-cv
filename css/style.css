@@ -229,6 +229,7 @@ body {
   line-height: 24px;
   color: #ffffff;
   margin-right: 7px;
+  list-style-type: none;
 }
 .contact-section-link {
   font-style: normal;
