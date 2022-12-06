@@ -14,10 +14,10 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
-.conteiner {
+.container {
   margin: 0 auto;
 }
-.main-conteiner {
+.main-container {
   display: flex;
   flex-direction: row-reverse;
   background: #fff;
