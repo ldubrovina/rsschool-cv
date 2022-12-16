@@ -15,6 +15,7 @@ body {
   justify-content: space-between;
 }
 .container {
+  max-width: 1440px;
   margin: 0 auto;
 }
 .main-container {
@@ -42,9 +43,12 @@ body {
   padding: 0 20px;
   line-height: 50px;
   transition: 0.3s;
+  
+}
+.nav-list a {
   color: #400c70;
 }
-.nav-link :hover {
+.nav-list a:hover {
   color: #fb6d3a;
 }
 /* Main content section */
